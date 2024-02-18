@@ -1,0 +1,16 @@
+
+#bannerimage {
+  width: 100%;
+  background-image: url(https://cdn.pixabay.com/photo/2017/01/18/17/12/surfing-1990339_1280.jpg);
+  height: 405px;
+  background-position: center;
+}
+h1 { color: #111; font-family: 'Open Sans Condensed', sans-serif; font-size: 48px; font-weight: 700; line-height: 48px; margin: 0 0 24px; padding: 0 30px; text-align: center; text-transform: uppercase; }
+
+.imagestyle2 {
+ border-radius: 10px;width: 300px;opacity: 0.9;
+
+}
+
+
+
